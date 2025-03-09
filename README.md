@@ -11,7 +11,7 @@ Simplify your university life.
 - [Shufan Shahi](https://github.com/shufanshahi)
 - [Abdullah Al Jubaer Gem](https://github.com/jubaer36)
 - [Tanjil Hasan Khan](https://github.com/zzhasanzz)
-- [Asif or Alif Rashid ](https://github.com/alifrashid00)
+- [Asif Or Rashid Alif ](https://github.com/alifrashid00)
 
 ## Build and Run
 
